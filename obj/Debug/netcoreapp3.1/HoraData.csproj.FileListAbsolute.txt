@@ -1,0 +1,13 @@
+C:\Users\erica\OneDrive\Documentos\PROJETOS_CSHARP\HoraData\bin\Debug\netcoreapp3.1\HoraData.exe
+C:\Users\erica\OneDrive\Documentos\PROJETOS_CSHARP\HoraData\bin\Debug\netcoreapp3.1\HoraData.deps.json
+C:\Users\erica\OneDrive\Documentos\PROJETOS_CSHARP\HoraData\bin\Debug\netcoreapp3.1\HoraData.runtimeconfig.json
+C:\Users\erica\OneDrive\Documentos\PROJETOS_CSHARP\HoraData\bin\Debug\netcoreapp3.1\HoraData.runtimeconfig.dev.json
+C:\Users\erica\OneDrive\Documentos\PROJETOS_CSHARP\HoraData\bin\Debug\netcoreapp3.1\HoraData.dll
+C:\Users\erica\OneDrive\Documentos\PROJETOS_CSHARP\HoraData\bin\Debug\netcoreapp3.1\HoraData.pdb
+C:\Users\erica\OneDrive\Documentos\PROJETOS_CSHARP\HoraData\obj\Debug\netcoreapp3.1\HoraData.csprojAssemblyReference.cache
+C:\Users\erica\OneDrive\Documentos\PROJETOS_CSHARP\HoraData\obj\Debug\netcoreapp3.1\HoraData.AssemblyInfoInputs.cache
+C:\Users\erica\OneDrive\Documentos\PROJETOS_CSHARP\HoraData\obj\Debug\netcoreapp3.1\HoraData.AssemblyInfo.cs
+C:\Users\erica\OneDrive\Documentos\PROJETOS_CSHARP\HoraData\obj\Debug\netcoreapp3.1\HoraData.csproj.CoreCompileInputs.cache
+C:\Users\erica\OneDrive\Documentos\PROJETOS_CSHARP\HoraData\obj\Debug\netcoreapp3.1\HoraData.dll
+C:\Users\erica\OneDrive\Documentos\PROJETOS_CSHARP\HoraData\obj\Debug\netcoreapp3.1\HoraData.pdb
+C:\Users\erica\OneDrive\Documentos\PROJETOS_CSHARP\HoraData\obj\Debug\netcoreapp3.1\HoraData.genruntimeconfig.cache
