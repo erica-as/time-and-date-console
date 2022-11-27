@@ -7,8 +7,8 @@ namespace HoraData
 {
     public class VariaveisHourDate
     {
-        public string mes;
-        public string diaSemana;
+        public string mes { get; set; }
+        public string diaSemana { get; set; }
         public string version = "1.0";
     }
 }

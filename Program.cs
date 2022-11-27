@@ -90,6 +90,7 @@ namespace HoraData
                 hourDate.diaSemana, DateTime.Now.ToString("dd"),
                 hourDate.mes, DateTime.Now.ToString("yyyy"), DateTime.Now.ToString("HH:mm:ss"));
 
+                //método estático que sempre faz com que o thread atual entre no modo de suspensão.
                 Thread.Sleep(1000);    
             }
         }
